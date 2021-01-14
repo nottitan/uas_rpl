@@ -1,0 +1,13 @@
+.jumbotron .troli{
+    margin-left: 650px;
+    margin-top: 120px;
+}
+.btn{
+    margin-left: 670px;
+    margin-top: 40px;
+    border-radius: 7px !important;
+    width: 22%;
+    background-color: #7D76D3 !important;
+    border-color: #7D76D3 !important;
+    color: #000000 !important;
+}
